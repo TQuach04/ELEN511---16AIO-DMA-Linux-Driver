@@ -1,0 +1,4 @@
+make
+rmmod 16aio
+insmod 16aio.ko
+dmesg
